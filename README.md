@@ -1,7 +1,7 @@
 # Project H-DBTL: public data repository
 This repository contains the iterative experiment data using the H-DBTL methodology to achieve the optimization goals.
 
-- Zhehong, A. & Longhan, Z. et al. Optimization of Colorimetric Ammonia Sensors Using a Knowledge-aware Algorithm-driven Robot Platform
+- Zhehong, A. & Longhan, Z. et al. Optimization of Colorimetric Ammonia Sensors Using a Knowledge-aware Algorithm-driven Robot Platform [Optimization of Colorimetric Ammonia Sensors Using a Knowledge-aware Algorithm-driven Robot Platform]
 
 
 ## Contact Us
