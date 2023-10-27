@@ -8,6 +8,6 @@ This repository contains the iterative experiment data using the H-DBTL methodol
 
 If you have any questions, suggestions, or feedback, please reach out to us through the following:
 
-- Email: [jiangjing.36@gmail.com](jiangj@zhejianglab.com)
+- Email: [jiangj@zhejianglab.com](jiangj@zhejianglab.com)
 - Issue Tracker: [https://github.com/jiangteam-2022
 /H-DBTL/issues](https://github.com/jiangteam-2022/H-DBTL/issues)
